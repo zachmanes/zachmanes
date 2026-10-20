@@ -1,5 +1,5 @@
 - Hello, I'm Zach Manes
 - I'm a Computer Science student at San Diego State University
 - Interests: Cyber Security, App Development
-- Hobbies: Foreign Languages (currently N4 in Japanese)
+- Hobbies: Foreign Languages, Electric Guitar and Bass
 - Graduating with B.S. in 2029
